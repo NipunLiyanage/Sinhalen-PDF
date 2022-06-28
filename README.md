@@ -21,4 +21,4 @@ install google translation api for python using pip
 install PyPDF2 using pip (pip install PyPDF2)
 install tkinter using pip (pip install tk)
 
-**A small screen record video is provided with this to show the functionality of the system.**
+
